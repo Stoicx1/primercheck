@@ -1,0 +1,21 @@
+import cv2
+import numpy as np
+import os
+
+from lxml import etree
+import lxml.etree as et
+
+def RemoveImage(path):
+	tree = etree.parse(open(path))
+	root = tree.getroot()
+	target = root.xpath("/svg:svg/svg:image", namespaces={"svg": "http://www.w3.org/2000/svg"})
+
+	target[0].getparent().remove(target[0])
+
+	'''
+	for element in root.iter("*"):
+		print(element)
+	'''
+
+	with open('myModifiedFile.svg', 'wb') as f:
+	    f.write(etree.tostring(tree))

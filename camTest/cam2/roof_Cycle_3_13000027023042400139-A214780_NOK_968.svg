@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 2448 2048">
+<circle cx="2068.6" cy="352" r="112.5" stroke-width="5" stroke="#000000" fill="none"/>
+<circle cx="2068.6" cy="352" r="108.7" stroke-width="5" stroke="#808080" fill="none"/>
+<circle cx="2068.6" cy="352" r="105" stroke-width="5" stroke="#808080" fill="none"/>
+<circle cx="2068.6" cy="352" r="101.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="97.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="93.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="90" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="86.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="82.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="78.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="75" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="0" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="3.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="7.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="11.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="15" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="18.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="22.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="26.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="30" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="33.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="37.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="41.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="45" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="48.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="52.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="56.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="60" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="63.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="67.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="2068.6" cy="352" r="71.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<defs>
+     <pattern id="0000000028A7" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+       <path d="M 0 10 10 0" stroke-width="1" stroke="#000080"/>
+     </pattern>
+   </defs>
+<defs>
+<polygon id="shape1" points="1893.6,2004.3 1919.6,2005.3 1918.6,1781.3 1885.6,1779.3 1883.6,1469.3 1883.6,1232.3 1883.6,1187.3 1866.6,1179.3 1856.6,1168.3 1851.6,1155.3 1848.6,1144.3 1850.6,1121.3 1860.6,1104.3 1878.6,1089.3 1878.6,1000.3 1874,793.5 1811.6,793.3 1825.6,1158.3 1829.6,1452.3 1830.6,1616.3 1832.6,1822.3 1842.6,1930.3 1867.6,1932.3 1863.6,2006.3 " stroke-width="3" stroke="#00FF00"/>
+<circle id="shape2" cx="1898.6" cy="1139.9" r="47.9" stroke-width="3" stroke="#00FF00"/>
+<polyline points="0,0 -18,-9 -15,0 -18,9" fill="#00FF00" stroke="#00FF00" transform="translate(1811.6 1400.3) rotate(90)"/>
+<polyline points="0,0 -18,-9 -15,0 -18,9" fill="#00FF00" stroke="#00FF00" transform="translate(1879.8 793.3) rotate(0)"/>
+<text x="1791.6" y="1409.3" style="font-family:Arial;font-size:12pt;font-style:normal;font-weight:normal;fill:#00FF00">X</text>
+<text x="1879.8" y="782.3" style="font-family:Arial;font-size:12pt;font-style:normal;font-weight:normal;fill:#00FF00">Y</text>
+<path id="BoundingBox0" d="M1811.6,793.3h136.4v1214h-136.4z" stroke-width="3" stroke="#00FF00"/>
+<mask id="4" maskUnits="userSpaceOnUse">
+<rect cx="1811.6" cy="793.3" width="1950" height="2009.3" fill="white"/>
+<use xlink:href="#shape1" fill="black"/>
+</mask>
+<mask id="5" maskUnits="userSpaceOnUse">
+<rect cx="1811.6" cy="793.3" width="1950" height="2009.3" fill="white"/>
+</mask>
+</defs>
+<g mask="url(#5)">
+<g mask="url(#4)">
+<use xlink:href="#BoundingBox0" fill="url(#0000000028A7)"/>
+</g>
+<use xlink:href="#shape1" fill="none"/>
+<use xlink:href="#shape2" fill="url(#0000000028A7)"/>
+</g>
+<polygon id="shape1" points="1893.6,2004.3 1919.6,2005.3 1918.6,1781.3 1885.6,1779.3 1883.6,1469.3 1883.6,1232.3 1883.6,1187.3 1866.6,1179.3 1856.6,1168.3 1851.6,1155.3 1848.6,1144.3 1850.6,1121.3 1860.6,1104.3 1878.6,1089.3 1878.6,1000.3 1874,793.5 1811.6,793.3 1825.6,1158.3 1829.6,1452.3 1830.6,1616.3 1832.6,1822.3 1842.6,1930.3 1867.6,1932.3 1863.6,2006.3 " stroke-width="3" stroke="#00FF00" fill="none"/>
+<circle id="shape2" cx="1898.6" cy="1139.9" r="47.9" stroke-width="3" stroke="#00FF00" fill="none"/>
+<defs>
+     <pattern id="0000000028A8" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+       <path d="M 0 10 10 0" stroke-width="1" stroke="#000080"/>
+     </pattern>
+   </defs>
+<defs>
+<polygon id="shape7" points="2174,2018.5 2216.6,2018.3 2228.6,1866.3 2234.6,1767.3 2243.6,1488.3 2245.6,1331.3 2244.6,1196.3 2241.6,1086.3 2237.6,910.3 2233.6,786.3 2190.6,785.3 2195.6,914.3 2200.6,1092.3 2204,1261.5 2204,1351.5 2201.6,1473.3 2198.6,1573.3 2193.6,1702.3 2187.6,1814.3 2183.6,1884.3 " stroke-width="3" stroke="#00FF00"/>
+<use xlink:href="#shape7" fill="none"/>
+</defs>
+<use xlink:href="#BoundingBox6" fill="url(#0000000028A8)"/>
+<use xlink:href="#shape7" fill="none"/>
+<rect x="40" y="1536" width="2368" height="492" stroke-width="1" stroke="#000080" fill="none"/>
+<path d="M40,2028h1267.3h9.2h9.3h9.2l9.3,-0.1h18.5h9.2l9.3,-0.3l9.2,0.1h9.3l9.2,-0.2l9.3,-0.1h9.2l9.3,-0.3l9.2,-0.1l9.3,-0.1l9.2,-0.2l9.3,-0.5l9.2,0.3l9.3,-0.7l9.2,-0.2l9.3,0.4h9.2l9.3,-0.2l9.2,-0.1h9.3l9.2,0.1l9.3,0.1l9.2,-0.3l9.3,0.2l9.2,0.2l9.3,-0.2l9.2,-0.2l9.3,0.2l9.2,-0.2l9.3,-0.1l9.2,-0.1l9.3,-0.1l9.2,-0.3h9.3l9.2,-0.7l9.3,0.1l9.2,-0.7l9.3,0.4l9.2,-0.6l9.3,0.2h9.2l9.3,-0.2l9.2,-0.9l9.3,0.8l9.2,-0.6l9.3,0.3l9.2,0.2l9.3,0.6l9.2,0.5l9.3,-0.8l9.2,0.7l9.3,0.4l9.2,0.3l9.3,0.1h9.2l9.3,0.6l9.2,-0.6l9.3,0.3l9.2,0.2l9.3,-0.3l9.2,0.5l9.3,0.4l9.2,-0.3l9.3,-0.4l9.2,0.2l9.3,0.1l9.2,0.1l9.3,0.3l9.2,-0.5l9.3,-0.1l9.2,0.2l9.3,0.2l9.2,-0.4l9.3,-0.1l9.2,0.2l9.3,0.1h9.2h9.3l9.2,0.1h9.3l9.2,-0.1l9.3,0.1l9.2,-0.2h9.3l9.2,-0.2l9.3,0.4h9.2l9.3,-0.2h9.2l9.3,-0.2l9.2,-0.1h9.3h9.2l9.3,0.2l9.2,0.1l9.3,-0.2h9.2l9.3,-0.3l9.2,0.2l9.3,-0.3l9.2,0.2l9.3,0.4l9.2,0.2l9.3,-0.6l9.2,-0.2l9.3,0.6l9.2,-0.6l9.3,-0.1l9.2,0.1l9.3,-0.1l9.2,0.4" stroke-width="1" stroke="#008000" fill="none"/>
+<text x="0" y="1522" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">34074</text>
+<text x="0" y="2014" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="40" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="2408" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">255</text>
+<text x="2093.5" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">222</text>
+<line x1="2093.5" y1="1536" x2="2093.5" y2="2028" stroke-width="1" stroke="#008000"/>
+<text x="336" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">GreyValue</text>
+<rect x="40" y="1536" width="2368" height="492" stroke-width="1" stroke="#000080" fill="none"/>
+<path d="M40,2028h1415.3h9.2h9.3h9.2h9.3h9.2h9.3h83.2h9.3h9.2h18.5h9.3h9.2h46.3h9.2h9.3h9.2h9.3h9.2l9.3,-0.1l9.2,0.1l9.3,-0.1h9.2h9.3l9.2,0.1l9.3,-0.1h9.2l9.3,-0.1l9.2,0.1l9.3,-0.1h9.2l9.3,-0.1l9.2,-0.1h9.3l9.2,-0.1h9.3l9.2,-0.1l9.3,-0.3l9.2,0.1l9.3,-0.2l9.2,0.2l9.3,-0.1l9.2,-0.1l9.3,-0.3h9.2h9.3l9.2,-0.4l9.3,0.3l9.2,-0.2l9.3,0.1l9.2,-0.2l9.3,0.1l9.2,-0.4l9.3,-0.1h9.2h9.3l9.2,-0.1l9.3,-0.2l9.2,-0.1h9.3l9.2,0.2l9.3,-0.2l9.2,0.1l9.3,0.2h9.2h9.3l9.2,-0.3l9.3,0.2l9.2,0.3l9.3,0.1l9.2,-0.1l9.3,0.1l9.2,0.2l9.3,0.1l9.2,0.1l9.3,-0.5l9.2,0.2l9.3,-0.1l9.2,0.1l9.3,-0.3h9.2h9.3l9.2,-0.2l9.3,0.2l9.2,-0.8l9.3,0.3l9.2,-0.1h9.3l9.2,-0.2" stroke-width="1" stroke="#008000" fill="none"/>
+<text x="0" y="1522" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">58758</text>
+<text x="0" y="2014" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="40" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="2408" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">255</text>
+<text x="2269.3" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">241</text>
+<line x1="2269.3" y1="1536" x2="2269.3" y2="2028" stroke-width="1" stroke="#008000"/>
+<text x="336" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">GreyValue</text>
+<g>
+<line x1="2147" y1="1136.5" x2="2147" y2="1096.5" stroke-width="1" stroke="#008000"/>
+<polyline points="0,0 -6,-3 -5,0 -6,3" fill="#008000" stroke="#008000" transform="translate(2147 1136.5) rotate(90)"/>
+<line x1="2167" y1="1116.5" x2="2127" y2="1116.5" stroke-width="1" stroke="#008000"/>
+<polyline points="0,0 -6,-3 -5,0 -6,3" fill="#008000" stroke="#008000" transform="translate(2167 1116.5) rotate(0)"/>
+</g>
+</svg>

@@ -1,0 +1,133 @@
+import cv2
+import numpy as np
+import os
+import time
+import keyboard
+
+
+while True:
+	print()
+	print('#####################################################################')
+	print()
+
+	if keyboard.is_pressed("a"):
+		break
+	 
+	# Get the list of all files and directories
+	path = "C:/Users/Pavol Hvolka/Documents/WEB/primercheck/cam2"
+	path = 'G:/CAM1'
+	dir_list = os.listdir(path)
+	window_name = 'app'
+	 
+	selDate = '221123'
+	dataDict = []
+	newestID = 0
+	newestSN = ''
+	# prints all files
+	for img in dir_list:
+		name = img
+		if selDate in name:
+			tmpList = name.replace(".", "_").split("_")
+			tmpList.append(name)
+			dataDict.append({'CAM':1,'CYCLE':tmpList[2],'SN':tmpList[3],'RESULT':tmpList[4], 'ID':int(tmpList[5]), 'FORMAT':tmpList[6], 'PATH':tmpList[7]})
+			if int(tmpList[5]) > newestID:
+				newestID = int(tmpList[5])
+				newestSN = tmpList[3]
+
+	imgList = []
+	for idx, row in enumerate(dataDict):
+		if row["SN"] == newestSN and row["FORMAT"]=='bmp':
+			print(idx, row)
+			imgList.append(row)
+	print()
+	print('Newest idx: ', newestID)
+	print('Newest  SN: ', newestSN)
+	print()
+	for data in imgList:
+		print(data)
+
+'''
+
+	img11 = cv2.imread(path + '/' + imgList[0]['PATH'], cv2.IMREAD_UNCHANGED)
+	img21 = cv2.imread(path + '/' + imgList[1]['PATH'], cv2.IMREAD_UNCHANGED)
+	img31 = cv2.imread(path + '/' + imgList[2]['PATH'], cv2.IMREAD_UNCHANGED)
+	img41 = cv2.imread(path + '/' + imgList[3]['PATH'], cv2.IMREAD_UNCHANGED)
+	imgblack = 222*img11
+
+	scale_percent = 50 # percent of original size
+	width = int(img11.shape[1] * scale_percent / 100)
+	height = int(img11.shape[0] * scale_percent / 100)
+	dim = (width, height)
+	  
+	# resize image
+	resized = cv2.resize(img11, dim, interpolation = cv2.INTER_AREA)
+	resized = cv2.resize(img21, dim, interpolation = cv2.INTER_AREA)
+	resized = cv2.resize(img31, dim, interpolation = cv2.INTER_AREA)
+	resized = cv2.resize(img41, dim, interpolation = cv2.INTER_AREA)
+
+	font                   = cv2.FONT_HERSHEY_SIMPLEX
+	bottomLeftCornerOfText = (10,500)
+	fontScale              = 10
+	fontColor              = (255, 0, 0)
+	thickness              = 12
+	lineType               = 1
+
+	cv2.putText(img11, 
+		imgList[0]['RESULT'], 
+	    bottomLeftCornerOfText, 
+	    font, 
+	    fontScale,
+	    fontColor,
+	    thickness,
+	    lineType)
+
+	cv2.putText(img21, 
+		imgList[1]['RESULT'], 
+	    bottomLeftCornerOfText, 
+	    font, 
+	    fontScale,
+	    fontColor,
+	    thickness,
+	    lineType)
+
+	cv2.putText(img31, 
+		imgList[2]['RESULT'], 
+	    bottomLeftCornerOfText, 
+	    font, 
+	    fontScale,
+	    fontColor,
+	    thickness,
+	    lineType)
+
+	cv2.putText(img41, 
+		imgList[3]['RESULT'], 
+	    bottomLeftCornerOfText, 
+	    font, 
+	    fontScale,
+	    fontColor,
+	    thickness,
+	    lineType)
+
+	cv2.namedWindow("foo", cv2.WINDOW_NORMAL)
+	cv2.setWindowProperty("foo", cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
+
+	# Create a 4x4 grid of images
+	x1th_row = np.hstack((img41, imgblack, imgblack, imgblack))
+	x2th_row = np.hstack((img21, imgblack, imgblack, imgblack))
+	x3th_row = np.hstack((img31, imgblack, imgblack, imgblack))
+	x4th_row = np.hstack((img11, imgblack, imgblack, imgblack))
+	grid = np.vstack((x1th_row, x2th_row, x3th_row, x4th_row))
+	cv2.imshow("foo", grid)  
+
+	#1 ms for painting
+	cv2.waitKey(10)
+
+	#Block for 10 seconds
+	time.sleep(0.01)
+
+	#Wait 3 seconds for button press
+	cv2.waitKey(1)
+
+
+cv2.destroyAllWindows()
+'''

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 2448 2048">
+<circle cx="1256.2" cy="1230.5" r="112.5" stroke-width="5" stroke="#000000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="108.7" stroke-width="5" stroke="#808080" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="105" stroke-width="5" stroke="#808080" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="101.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="97.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="93.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="90" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="86.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="82.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="78.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="75" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="71.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="67.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="63.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="60" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="56.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="52.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="48.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="45" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="41.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="37.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="33.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="30" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="26.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="22.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="18.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="15" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="11.2" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="7.5" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="3.7" stroke-width="5" stroke="#FF0000" fill="none"/>
+<circle cx="1256.2" cy="1230.5" r="0" stroke-width="5" stroke="#FF0000" fill="none"/>
+<defs>
+     <pattern id="000000003321" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+       <path d="M 0 10 10 0" stroke-width="1" stroke="#000080"/>
+     </pattern>
+   </defs>
+<defs>
+<polygon id="shape1" points="2291.8,1660.3 2328.8,1661.3 2299.8,1537.3 2297.3,1502.5 2259.3,1502.5 2272.8,1565.3 " stroke-width="3" stroke="#FF0000"/>
+<use xlink:href="#shape1" fill="none"/>
+</defs>
+<use xlink:href="#BoundingBox0" fill="url(#000000003321)"/>
+<use xlink:href="#shape1" fill="none"/>
+<text x="2269.6" y="1784.7" style="font-family:Arial;font-size:12pt;font-style:normal;font-weight:normal;fill:#FF0000">Area2</text>
+<defs>
+     <pattern id="000000003322" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+       <path d="M 0 10 10 0" stroke-width="1" stroke="#000080"/>
+     </pattern>
+   </defs>
+<defs>
+<polygon id="shape4" points="2166.8,334.3 2180.8,639.3 2213.8,1136.3 2228.8,1281.3 2265.8,1281.3 2211.8,653.3 2195.8,343.3 " stroke-width="3" stroke="#FF0000"/>
+<use xlink:href="#shape4" fill="none"/>
+</defs>
+<use xlink:href="#BoundingBox3" fill="url(#000000003322)"/>
+<use xlink:href="#shape4" fill="none"/>
+<text x="2228.5" y="330.6" style="font-family:Arial;font-size:12pt;font-style:normal;font-weight:normal;fill:#FF0000">Area1</text>
+<defs>
+     <pattern id="000000003323" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+       <path d="M 0 10 10 0" stroke-width="1" stroke="#000080"/>
+     </pattern>
+   </defs>
+<defs>
+<polygon id="shape7" points="2214.8,1644.3 2245,1647.3 2220.8,1444.3 2202.8,1220.3 2182.8,914.3 2158.8,920.3 2176.8,1192.3 2190.8,1397.3 2203.8,1529.3 2206.8,1587.3 " stroke-width="3" stroke="#FF0000"/>
+<use xlink:href="#shape7" fill="none"/>
+</defs>
+<use xlink:href="#BoundingBox6" fill="url(#000000003323)"/>
+<use xlink:href="#shape7" fill="none"/>
+<text x="1923.2" y="1209.1" style="font-family:Arial;font-size:12pt;font-style:normal;font-weight:normal;fill:#FF0000">Area3</text>
+<text x="1947.6" y="504" style="font-family:Arial;font-size:12pt;font-style:normal;font-weight:normal;fill:#FF0000">Area4</text>
+<defs>
+     <pattern id="000000003324" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10" viewBox="0 0 10 10">
+       <path d="M 0 10 10 0" stroke-width="1" stroke="#000080"/>
+     </pattern>
+   </defs>
+<defs>
+<polygon id="shape10" points="2190.8,1091.3 2175.8,846.3 2147.8,336.3 2122.8,354.3 2139.8,592.3 2168.8,1092.3 " stroke-width="3" stroke="#FF0000"/>
+<use xlink:href="#shape10" fill="none"/>
+</defs>
+<use xlink:href="#BoundingBox9" fill="url(#000000003324)"/>
+<use xlink:href="#shape10" fill="none"/>
+<rect x="40" y="1536" width="2368" height="492" stroke-width="1" stroke="#000080" fill="none"/>
+<path d="M40,2028h249.8l9.2,-2.7h9.3l9.2,-10.6l9.3,2.7l9.2,2.6l9.3,2.7l9.2,-5.3h18.5l9.3,-2.7l9.2,-10.6l9.3,5.3l9.2,-2.7l9.3,-5.3l9.2,10.6l9.3,10.7l9.2,-21.3l9.3,10.6h9.2l9.3,-10.6l9.2,21.3l9.3,-24l9.2,8l9.3,5.3l9.2,8l9.3,-5.3l9.2,10.6l9.3,-26.6l9.2,13.3l9.3,-2.6l9.2,13.3l9.3,-5.3l9.2,-2.7l9.3,-10.6l9.2,7.9l9.3,2.7l9.2,-5.3l9.3,5.3h9.2l9.3,2.7l9.2,-8l9.3,13.3l9.2,-16l9.3,-8l9.2,13.3l9.3,10.7l9.2,-5.3l9.3,2.6l9.2,-2.6l9.3,-8l9.2,8l9.3,7.9l9.2,-21.2l9.3,13.3l9.2,-5.4l9.3,-2.6l9.2,8l9.3,5.3l9.2,-16l9.3,5.3l9.2,10.7l9.3,-8l9.2,5.3l9.3,-13.3l9.2,5.3l9.3,5.4l9.2,-10.7l9.3,13.3l9.2,-5.3l9.3,-10.6l9.2,2.6l9.3,-2.6l9.2,10.6l9.3,-2.7l9.2,-10.6l9.3,8l9.2,-5.3l9.3,-8l9.2,10.6l9.3,-13.3l9.2,-26.6l9.3,-18.6l9.2,-66.5l9.3,-23.9l9.2,-23.9l9.3,-71.8l9.2,-21.3l9.3,13.3l9.2,-101.1l9.3,-15.9l9.2,-50.6l9.3,55.9l9.2,-31.9l9.3,23.9l9.2,21.3l9.3,-87.8l9.2,55.9l9.3,-53.2l9.2,-2.7l9.3,5.3l9.2,-37.2l9.3,53.2l9.2,5.3l9.3,21.3l9.2,109l9.3,-39.9l9.2,45.2l9.3,13.3l9.2,21.3l9.3,23.9l9.2,42.6l9.3,31.9l9.2,13.3l9.3,31.9l9.2,5.3l9.3,-5.3l9.2,21.3l9.3,5.3l9.2,13.3l9.3,-5.3l9.2,5.3l9.3,18.6l9.2,-2.6l9.3,2.6l9.2,18.6l9.3,-21.2l9.2,2.6l9.3,16l9.2,-5.3l9.3,-16l9.2,31.9l9.3,-23.9l9.2,31.9h9.3l9.2,-8l9.3,-8l9.2,10.7l9.3,2.6l9.2,8h9.3l9.2,-15.9l9.3,5.3l9.2,5.3l9.3,-5.3l9.2,13.3l9.3,-31.9h9.2l9.3,23.9l9.2,-34.6l9.3,16l9.2,5.3h9.3l9.2,21.3l9.3,-13.3l9.2,5.3l9.3,5.3l9.2,-13.3l9.3,8l9.2,10.6l9.3,-7.9l9.2,-24l9.3,21.3l9.2,5.3l9.3,-13.3l9.2,8l9.3,-2.7l9.2,18.7l9.3,-10.7l9.2,8l9.3,-10.6l9.2,2.6l9.3,13.3l9.2,-8h9.3l9.2,-2.6l9.3,-2.7l9.2,18.6l9.3,-10.6l9.2,-8l9.3,-8h9.2l9.3,21.3l9.2,2.7l9.3,-8l9.2,5.3l9.3,-2.6l9.2,-5.4l9.3,5.4h9.2l9.3,2.6l9.2,2.7l9.3,-5.3l9.2,-2.7l9.3,5.3l9.2,-5.3l9.3,10.6l9.2,2.7l9.3,-13.3l9.2,8l9.3,2.6l9.2,-2.6l9.3,5.3l9.2,-8h9.3l9.2,-8l9.3,8l9.2,-8l9.3,13.3l9.2,-2.6l9.3,2.6l9.2,-7.9l9.3,7.9l9.2,-10.6l9.3,2.7l9.2,7.9l9.3,-2.6l9.2,2.6l9.3,-2.6l9.2,2.6l9.3,-2.6h27.7l9.3,-2.7l9.2,5.3l9.3,-7.9l9.2,7.9" stroke-width="1" stroke="#008000" fill="none"/>
+<text x="0" y="1522" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">186</text>
+<text x="0" y="2014" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="40" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="2408" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">255</text>
+<text x="1547.8" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">163</text>
+<line x1="1547.8" y1="1536" x2="1547.8" y2="2028" stroke-width="1" stroke="#008000"/>
+<text x="336" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">GreyValue</text>
+<rect x="40" y="1536" width="2368" height="492" stroke-width="1" stroke="#000080" fill="none"/>
+<path d="M40,2028h231.3l9.2,-1.4l9.3,0.7l9.2,-3.6l9.3,-4.9l9.2,-7.9l9.3,-12.1l9.2,-13.5l9.3,-19.9l9.2,3.6l9.3,-11.4l9.2,10.7l9.3,8.5l9.2,3.6l9.3,-0.7l9.2,2.8l9.3,11.4l9.2,-10l9.3,7.1l9.2,1.5l9.3,3.5l9.2,-7.1l9.3,14.9l9.2,-7.1l9.3,1.4l9.2,6.4l9.3,-7.1l9.2,6.4l9.3,-5.7l9.2,4.3l9.3,4.3l9.2,-4.3l9.3,-1.4l9.2,-7.8l9.3,8.5l9.2,4.3l9.3,-2.9l9.2,2.1l9.3,2.2l9.2,-1.4l9.3,-10l9.2,5.7l9.3,9.2l9.2,-7.1l9.3,0.7l9.2,0.7h9.3l9.2,5.7h9.3l9.2,-7.8l9.3,7.1h9.2l9.3,2.2l9.2,-8.6l9.3,10l9.2,-5l9.3,-9.2l9.2,4.9l9.3,-4.9l9.2,14.2l9.3,-5.7l9.2,-10.7l9.3,5.7l9.2,3.6l9.3,-5l9.2,10.7l9.3,-7.2l9.2,-9.9l9.3,-6.4l9.2,-9.2l9.3,-1.5l9.2,-21.3l9.3,-44.1l9.2,-8.5l9.3,-43.4l9.2,-6.4l9.3,-27.7l9.2,-59l9.3,31.3l9.2,-22.8l9.3,-14.2l9.2,-43.4l9.3,36.3l9.2,-15.7l9.3,-19.9l9.2,7.9l9.3,-53.4l9.2,-29.8l9.3,-64l9.2,29.8l9.3,-1.4l9.2,-22l9.3,9.2l9.2,-29.8l9.3,1.4l9.2,21.3l9.3,21.3l9.2,-12l9.3,-41.3l9.2,-20.6l9.3,14.9l9.2,-1.4l9.3,-12.8l9.2,5.7l9.3,29.9l9.2,39.1l9.3,-0.7l9.2,26.3l9.3,21.3l9.2,7.8l9.3,67.6l9.2,-7.2l9.3,8.6l9.2,17l9.3,30.6l9.2,0.7l9.3,18.5l9.2,17.8l9.3,12.8l9.2,7.1l9.3,34.8l9.2,-7.8l9.3,-4.3l9.2,34.9l9.3,-10h9.2l9.3,16.4l9.2,8.5l9.3,10.7h9.2l9.3,-13.5l9.2,23.4l9.3,3.6l9.2,18.5l9.3,-19.2l9.2,18.5l9.3,11.3l9.2,-9.9l9.3,-2.2l9.2,2.2l9.3,8.5l9.2,1.4l9.3,12.8l9.2,-8.5l9.3,-2.8l9.2,4.2l9.3,3.6l9.2,-0.7l9.3,11.3l9.2,-6.4h9.3l9.2,-4.9l9.3,5.7h9.2l9.3,9.2l9.2,-1.4l9.3,-4.3l9.2,2.9l9.3,-4.3l9.2,9.2l9.3,-6.4l9.2,7.1l9.3,-8.5l9.2,9.3l9.3,-4.3l9.2,4.3l9.3,4.2l9.2,0.7l9.3,-0.7l9.2,-3.5l9.3,7.1l9.2,-7.1l9.3,-0.7l9.2,11.3l9.3,-9.2l9.2,12.1l9.3,-6.4l9.2,-0.7l9.3,-2.2l9.2,-0.7l9.3,9.3l9.2,-2.2l9.3,7.1l9.2,-9.2l9.3,2.8l9.2,2.9l9.3,-10l9.2,8.6l9.3,-3.6l9.2,4.3l9.3,-0.7l9.2,-5l9.3,2.1l9.2,12.8l9.3,-12.1l9.2,4.3l9.3,3.5l9.2,-4.9h9.3l9.2,3.5l9.3,-0.7l9.2,4.3l9.3,-0.7l9.2,-2.9l9.3,2.2l9.2,6.4l9.3,-7.2l9.2,0.8l9.3,4.9l9.2,-4.9l9.3,7.8l9.2,-5l9.3,-2.1l9.2,0.7l9.3,2.8l9.2,2.2l9.3,-1.5l9.2,-2.8l9.3,-0.7l9.2,2.8l9.3,-2.1h9.2l9.3,2.8l9.2,-1.4l9.3,3.6l9.2,-0.7l9.3,2.8l9.2,-0.7l9.3,3.5l9.2,-2.8" stroke-width="1" stroke="#008000" fill="none"/>
+<text x="0" y="1522" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">693</text>
+<text x="0" y="2014" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="40" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="2408" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">255</text>
+<text x="1492.3" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">157</text>
+<line x1="1492.3" y1="1536" x2="1492.3" y2="2028" stroke-width="1" stroke="#008000"/>
+<text x="336" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">GreyValue</text>
+<rect x="40" y="1536" width="2368" height="492" stroke-width="1" stroke="#000080" fill="none"/>
+<path d="M40,2028h555l9.3,-1.4h9.2l9.3,-1.3h18.5l9.2,-1.4l9.3,-1.4l9.2,5.5l9.3,-4.1l9.2,-4.1l9.3,2.7h18.5l9.2,-20.4l9.3,9.5l9.2,6.9l9.3,2.7l9.2,-12.3l9.3,-6.8l9.2,-12.3l9.3,-10.9l9.2,-49l9.3,-30l9.2,-60l9.3,-8.2l9.2,-96.7l9.3,-54.5h9.2l9.3,-50.5l9.2,-34l9.3,-54.5l9.2,77.6l9.3,-38.1l9.2,6.8l9.3,12.3l9.2,-6.9l9.3,-21.8l9.2,72.3l9.3,-10.9l9.2,38.1l9.3,4.1h9.2l9.3,58.6l9.2,-23.2l9.3,-24.5l9.2,-13.6l9.3,17.7l9.2,-28.6l9.3,-15l9.2,-15l9.3,-47.7l9.2,28.6l9.3,-42.2l9.2,-34.1l9.3,80.4l9.2,-13.6l9.3,39.5l9.2,-20.4l9.3,59.9l9.2,5.5l9.3,-4.1l9.2,40.9l9.3,-28.6l9.2,12.2l9.3,13.7l9.2,13.6l9.3,-9.6l9.2,24.6l9.3,13.6l9.2,57.2l9.3,-42.2l9.2,28.6l9.3,34.1l9.2,-34.1l9.3,51.8l9.2,-4.1l9.3,5.5l9.2,-42.3l9.3,25.9l9.2,-31.3l9.3,8.1l9.2,36.8l9.3,-2.7l9.2,32.7l9.3,-39.5l9.2,43.6l9.3,-16.3l9.2,12.2l9.3,-4.1l9.2,20.5l9.3,19.1l9.2,-13.7l9.3,12.3l9.2,25.9l9.3,-49.1l9.2,50.5l9.3,2.7l9.2,-5.5l9.3,-16.3l9.2,15l9.3,-2.8l9.2,20.5h9.3l9.2,6.8l9.3,-1.4l9.2,-13.6l9.3,17.7l9.2,-1.3l9.3,16.3l9.2,-9.5l9.3,13.6l9.2,-4.1l9.3,6.8l9.2,-16.3l9.3,12.2l9.2,-4l9.3,14.9l9.2,4.1l9.3,-2.7l9.2,2.7l9.3,4.1l9.2,-10.9l9.3,17.7l9.2,-15l9.3,2.8h9.2l9.3,1.3l9.2,6.8l9.3,-4l9.2,4l9.3,4.1l9.2,-16.3l9.3,8.2l9.2,6.8l9.3,-5.5l9.2,1.4h9.3l9.2,1.3h9.3l9.2,9.6l9.3,-2.7l9.2,-1.4h9.3l9.2,2.7h9.3l9.2,-1.3l9.3,4h9.2l9.3,-6.8l9.2,1.4l9.3,-1.4l9.2,5.5l9.3,-6.8l9.2,5.4l9.3,-1.3l9.2,-4.1l9.3,5.4l9.2,2.7l9.3,2.8l9.2,-6.8l9.3,5.4l9.2,-1.4l9.3,-5.4l9.2,6.8l9.3,-2.7l9.2,1.3l9.3,4.1l9.2,-5.4l9.3,4.1h18.5l9.2,-1.4l9.3,2.7l9.2,-2.7l9.3,1.4l9.2,1.3l9.3,-2.7l9.2,-1.4l9.3,1.4l9.2,4.1l9.3,-1.4l9.2,-2.7l9.3,-1.4l9.2,5.5h9.3l9.2,-4.1l9.3,2.7l9.2,-1.3l9.3,-4.1l9.2,2.7h9.3l9.2,1.4h9.3l9.2,2.7" stroke-width="1" stroke="#008000" fill="none"/>
+<text x="0" y="1522" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">362</text>
+<text x="0" y="2014" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="40" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="2408" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">255</text>
+<text x="1298" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">136</text>
+<line x1="1298" y1="1536" x2="1298" y2="2028" stroke-width="1" stroke="#008000"/>
+<text x="336" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">GreyValue</text>
+<rect x="40" y="1536" width="2368" height="492" stroke-width="1" stroke="#000080" fill="none"/>
+<path d="M40,2028h342.3l9.2,-0.3l9.3,0.3h46.2l9.3,-0.3h9.2l9.3,0.3l9.2,-0.3l9.3,0.3l9.2,-0.3l9.3,0.3h37l9.2,-0.3l9.3,0.3h18.5l9.2,-0.3l9.3,0.3h9.2l9.3,-0.3l9.2,-0.6l9.3,0.3l9.2,0.6l9.3,-0.3l9.2,-0.6l9.3,0.3h9.2l9.3,-1.9l9.2,0.9h9.3l9.2,-1.2l9.3,1.2l9.2,1l9.3,-1l9.2,1l9.3,-1.9l9.2,0.6l9.3,0.3l9.2,0.3l9.3,-1.5l9.2,1.9l9.3,-1.6l9.2,1.6l9.3,-0.7l9.2,0.3h9.3l9.2,1.3l9.3,-1.6l9.2,0.3l9.3,-0.3l9.2,-0.6l9.3,0.3l9.2,0.3l9.3,-0.3h9.2l9.3,0.3h9.2l9.3,-0.9l9.2,1.2l9.3,-2.1l9.2,1.5l9.3,-2.5l9.2,0.3l9.3,-3.4l9.2,-3.8l9.3,-4.3l9.2,-9.4l9.3,-3.5l9.2,-10l9.3,-14.7l9.2,-18.1l9.3,-25l9.2,-2.5l9.3,-23.5l9.2,-18.1l9.3,12.2l9.2,-26.3l9.3,0.6l9.2,9.4l9.3,-16l9.2,16.3l9.3,-4.4l9.2,2.5l9.3,5.7l9.2,11.5l9.3,-2.8l9.2,21.6l9.3,-19.4l9.2,16.3l9.3,10l9.2,6.2l9.3,-3.4l9.2,0.3l9.3,5.6l9.2,-5l9.3,3.8l9.2,10.6l9.3,0.3l9.2,7.5l9.3,7.9l9.2,4.7l9.3,0.6l9.2,1.9l9.3,-4.4l9.2,20l9.3,-1.6l9.2,2.2l9.3,-2.2l9.2,3.2l9.3,7.5h9.2l9.3,-8.8l9.2,10l9.3,2.2l9.2,6.3l9.3,-6.6l9.2,5.6l9.3,-1.5l9.2,0.3l9.3,5.3l9.2,-3.4l9.3,5.9l9.2,-5.3l9.3,0.3l9.2,2.2l9.3,-3.1l9.2,2.1l9.3,1.3l9.2,1.6l9.3,-1.3l9.2,3.1l9.3,-1.8l9.2,6.8l9.3,2.2l9.2,-4.7l9.3,1.3l9.2,1.9l9.3,3.4l9.2,-2.2l9.3,0.3l9.2,1.6l9.3,-2.2l9.2,2.5l9.3,-1.2l9.2,2.5l9.3,-0.7l9.2,2.2l9.3,-3.7l9.2,-4.1l9.3,5.6l9.2,2.2l9.3,-2.2l9.2,2.2l9.3,-0.6l9.2,-1.9l9.3,0.6l9.2,3.2l9.3,-2.5l9.2,0.3l9.3,1.9l9.2,-0.4l9.3,-0.3l9.2,-0.3l9.3,1.3l9.2,0.6l9.3,-4.1l9.2,5.7l9.3,-3.2l9.2,0.3l9.3,-2.1l9.2,5.6l9.3,-2.8l9.2,-3.8l9.3,4.7l9.2,-2.5l9.3,-0.6l9.2,4.7l9.3,-1.6l9.2,0.3l9.3,-1.2l9.2,0.3l9.3,-1.6l9.2,2.2l9.3,-0.3l9.2,1.6l9.3,0.9l9.2,-1.3l9.3,-0.6l9.2,-2.8l9.3,4.4l9.2,0.9l9.3,-0.3l9.2,-1.2l9.3,-2.9l9.2,4.1l9.3,-4.1l9.2,5.4l9.3,-2.5l9.2,0.6l9.3,0.3l9.2,0.6l9.3,0.6l9.2,-4l9.3,4.4l9.2,-4.4l9.3,2.2l9.2,0.3l9.3,-0.3l9.2,-0.3l9.3,-1l9.2,2.2" stroke-width="1" stroke="#008000" fill="none"/>
+<text x="0" y="1522" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">1574</text>
+<text x="0" y="2014" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="40" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">0</text>
+<text x="2408" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">255</text>
+<text x="1751.3" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">185</text>
+<line x1="1751.3" y1="1536" x2="1751.3" y2="2028" stroke-width="1" stroke="#008000"/>
+<text x="336" y="2028" style="font-family:Arial;font-size:0pt;font-style:normal;font-weight:normal;fill:#008000">GreyValue</text>
+</svg>
